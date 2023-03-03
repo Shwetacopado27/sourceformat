@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <label><!-- SFDX Extension Fields --></label>
+        <name>cmcSf__SFDX_Extension_Fields</name>
+    </fieldSets>
+    <layouts>
+        <layout>Artifact Version Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Package Version Details --></label>
+            <section>Package Version Details</section>
+        </sections>
+        <sections>
+            <label><!-- Release Details --></label>
+            <section>Release Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Update Installation Key --></label>
+        <name>cmcSf__UpdateInstallationKey</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Edit Configuration --></label>
+        <name>copado__EditConfiguration</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Package Version --></label>
+        <name>copado__GeneratePackageVersion</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Lock Bundle --></label>
+        <name>copado__Lock_Bundle</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Publish Package Version --></label>
+        <name>copado__PublishPackageVersion</name>
+    </quickActions>
+    <webLinks>
+        <label><!-- Merge_Version --></label>
+        <name>copado__Merge_Version</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Promote_Beta_to_Released --></label>
+        <name>copado__Promote_Beta_to_Released</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Current status of the implementation of the User Story. --></help>
+    <label><!-- Status --></label>
+    <name>copado__Status__c</name>
+    <picklistValues>
+        <masterLabel>Approved</masterLabel>
+        <translation><!-- Approved --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Awaiting Approval</masterLabel>
+        <translation><!-- Awaiting Approval --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Backburner</masterLabel>
+        <translation><!-- Backburner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Backlog</masterLabel>
+        <translation><!-- Backlog --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cancelled</masterLabel>
+        <translation><!-- Cancelled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Completed</masterLabel>
+        <translation><!-- Completed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Design In Progress</masterLabel>
+        <translation><!-- Design In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Development In Progress</masterLabel>
+        <translation><!-- Development In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Draft</masterLabel>
+        <translation><!-- Draft --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>In Progress</masterLabel>
+        <translation><!-- In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Design</masterLabel>
+        <translation><!-- Ready for Design --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Development</masterLabel>
+        <translation><!-- Ready for Development --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Release</masterLabel>
+        <translation><!-- Ready for Release --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for Technical Review</masterLabel>
+        <translation><!-- Ready for Technical Review --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ready for testing</masterLabel>
+        <translation><!-- Ready for testing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rejected</masterLabel>
+        <translation><!-- Rejected --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Release In Progress</masterLabel>
+        <translation><!-- Release In Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Released</masterLabel>
+        <translation><!-- Released --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Technical Review in Progress</masterLabel>
+        <translation><!-- Technical Review in Progress --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Testing In Progress</masterLabel>
+        <translation><!-- Testing In Progress --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

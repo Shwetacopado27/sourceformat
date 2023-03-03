@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Environment Layout</layout>
+        <sections>
+            <label><!-- Compliance --></label>
+            <section>Compliance</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Page Messages --></label>
+            <section>Page Messages</section>
+        </sections>
+        <sections>
+            <label><!-- Rollback --></label>
+            <section>Rollback</section>
+        </sections>
+    </layouts>
+    <validationRules>
+        <errorMessage><!-- An environment cannot have the same job template for Commit, Promote and Deploy. --></errorMessage>
+        <name>copado__Unique_Job_Template</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- An environment cannot have the same automation template for both Promote and Deploy --></errorMessage>
+        <name>copado__Unique_Template_for_promote_and_deploy</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Find_Replace_Rule_Editor --></label>
+        <name>copado__Find_Replace_Rule_Editor</name>
+    </webLinks>
+</CustomObjectTranslation>

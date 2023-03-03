@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salesforce</fullName>
+    <columns>NAME</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>NAME</field>
+        <operation>contains</operation>
+        <value>DEV1,DEV2,HotFix,QA,UAT,Production</value>
+    </filters>
+    <label>Salesforce</label>
+</ListView>
